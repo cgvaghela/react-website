@@ -5,13 +5,24 @@ This project was bootstrap html template with
 
 ## ReactJs Bootstrap html template
 
-In the project directory, you can run:
+Step 1) Install npm in you Computer fire this command
+#npm install
+
+Step 2) Copy git clone ir download Zip
+In the project directory, you can run:<br />
+Open [https://github.com/cgvaghela/react-website](https://github.com/cgvaghela/react-website) to view in the browser
+
+Step 3) In this site there frur pages (Home, About Us, Services, Contact Us)
+#go to src folder and update (Navbar.jsx,Contact.jsx,About.jsx,Sliders.jsx,Slide.jsx,Sevices.jsx,Service.jsx)
+
+Step 4) open command prompt and reach your folder by cd command
+#npm start
+
+Your project was run in local server by:<br />
+Open [http://localhost:3000](https://localhost:3000) in your localhost server
+
+##Upload in your server
+Step 1) 
 
 Runs the app in the development mode.<br />
-Open [https://react.syntegows.com](https://react.syntegows.com) to view it in the browser.
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Open [https://syntegows.com/react](https://syntegows.com/react) to view it in the browser.
